@@ -1,0 +1,12 @@
+{
+  "name": "usermodule-complete",
+  "version": "1.0.0",
+  "description": "A production-ready full-stack application with **React** frontend and **Node.js/Express** backend. Features complete user authentication: registration, OTP email verification, login, profile management, profile image upload, and a user directory.",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
