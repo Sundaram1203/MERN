@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL = process.env.REACT_APP_API_URL || "http://localhost:4444/api/auth";
+const API_URL = process.env.REACT_APP_API_URL || "https://sundaram-mern-project.vercel.app/api/auth";
 
 // Axios instance with base config
 const api = axios.create({

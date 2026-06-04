@@ -119,8 +119,8 @@ npm start
 npm run dev
 ```
 
-Backend runs at: `http://localhost:4444`  
-Swagger docs at: `http://localhost:4444/api-docs`
+Backend runs at: `https://sundaram-mern-project.vercel.app`  
+Swagger docs at: `https://sundaram-mern-project.vercel.app/api-docs`
 
 ### 3. Frontend
 
@@ -137,7 +137,7 @@ npm install
 npm start
 ```
 
-Frontend runs at: `http://localhost:3000`
+Frontend runs at: `https://sundaram-mern-project.vercel.app`
 
 ---
 
@@ -153,7 +153,7 @@ Frontend runs at: `http://localhost:3000`
 | POST | `/api/auth/logout` | Logout |
 | POST | `/api/auth/upload` | Upload profile image |
 
-Full interactive docs: `http://localhost:4444/api-docs`
+Full interactive docs: `https://sundaram-mern-project.vercel.app/api-docs`
 
 ---
 
