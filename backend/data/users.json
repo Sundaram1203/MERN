@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "first_name": "John",
+    "last_name": "Doe",
+    "email": "john@example.com",
+    "user_id": "d4c74594d841139328695756648b6bd6",
+    "password": "Test@1234",
+    "hash_password": "12bce374e7be15142e8172f668da00d8",
+    "otp_code": 891288,
+    "is_verified": 0,
+    "created_dt": "2026-09-05 23:44:19",
+    "updated_dt": "2026-09-05 23:44:19",
+    "created_by": "john@example.com",
+    "deleted": 0
+  },
+  {
+    "id": 2,
+    "first_name": "John",
+    "last_name": "Doe",
+    "email": "john@yopmail.com",
+    "user_id": "95b3767ffc39e8b324798d59e6dc4a31",
+    "password": "Test@123",
+    "hash_password": "f925916e2754e5e03f75dd58a5733251",
+    "otp_code": 146583,
+    "is_verified": 0,
+    "created_dt": "2026-09-05 23:44:51",
+    "updated_dt": "2026-09-05 23:49:49",
+    "created_by": "john@yopmail.com",
+    "deleted": 0
+  }
+]

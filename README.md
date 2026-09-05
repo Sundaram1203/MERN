@@ -95,7 +95,7 @@ cp .env .env.local    # Edit with your values
 
 Edit `backend/.env`:
 ```env
-PORT=4444
+PORT=3000
 
 DB_HOST=localhost
 DB_PORT=3306
@@ -130,7 +130,7 @@ cd frontend
 # Install dependencies
 npm install
 
-# Configure environment (optional — defaults to localhost:4444)
+# Configure environment (optional — defaults to localhost:3000)
 # Edit frontend/.env if your backend is on a different URL
 
 # Start React dev server
