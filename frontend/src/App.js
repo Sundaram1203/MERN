@@ -17,7 +17,7 @@ const ProtectedRoute = ({ children, currentUser }) => {
 
 const App = () => {
   const [currentUser, setCurrentUser] = useState(undefined);
-  const [menuOpen, setMenuOpen] = useState(false);
+  // const [menuOpen, setMenuOpen] = useState(false);
   const navigate = useNavigate();
 
   useEffect(() => {
